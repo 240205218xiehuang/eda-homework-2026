@@ -1,3 +1,0 @@
-student_id:"240205415"
-name:"黄观辉"
-github_username:"huangguanhui-500260"
